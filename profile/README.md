@@ -1,1 +1,1 @@
-# skinSync Project
+# BeautyQ Project
